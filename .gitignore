@@ -20,3 +20,8 @@
 # Eclipse .metadata director
 .metadata
 
+# Ignore assembly auto-generated stuff
+*.map
+*_linkInfo.xml
+*.obj
+
