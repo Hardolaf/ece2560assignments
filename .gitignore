@@ -17,8 +17,9 @@
 *.out
 *.app
 
-# Eclipse .metadata director
+# Eclipse .metadata directories
 .metadata
+.settings
 
 # Ignore assembly auto-generated stuff
 *.map
